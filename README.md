@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giacomoto
 - 👀 I’m interested in Metal and JS
-- 🌱 I’m currently learning Angular and Prestashop Frameworks 
+- 🌱 I’m currently working with Angular and Symfony frameworks 
 - 💞️ I’m looking to collaborate on ¯ \ _ (ツ) _ / ¯ 
 - 📫 How to reach me ¯ \ _ (ツ) _ / ¯ 
 
